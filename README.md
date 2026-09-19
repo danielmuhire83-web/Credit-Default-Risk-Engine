@@ -34,4 +34,4 @@ PKDD'99 Financial Dataset (Czech retail banking data) prepared by Petr Berka et 
 - **Why Point-in-Time?** Prevents lookahead bias to ensure robust production reliability.
 - **Global Explainability (SHAP):** Prioritizes short-term liquidity stress over demographics.
 
-![SHAP Beeswarm Plot](assets/shap_beeswarm.png)
+![SHAP Beeswarm Plot](assets/profit_optimization_curve.png)
